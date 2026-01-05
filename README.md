@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m Worasittisin
 
-<!--
-**NaWoHo/NaWoHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Featured Project
+	•	SupportBot Dashboard
+A full-stack admin dashboard for automated customer support replies
+Tech stack: Spring Boot, React, PostgreSQL, JWT
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+	•	Backend: Java, Spring Boot (currently learning)
+	•	Frontend: React, HTML, CSS, JavaScript
+	•	Mobile: React Native (Expo) (currently learning)
+	•	Database: PostgreSQL, MySQL
+	•	Tools: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact
+	•	GitHub: https://github.com/NaWoHo
